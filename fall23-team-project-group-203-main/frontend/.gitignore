@@ -1,7 +1,0 @@
-src/generated
-
-# stryker temp files
-.stryker-tmp
-
-# macOS .DS_Store
-*.DS_Store
